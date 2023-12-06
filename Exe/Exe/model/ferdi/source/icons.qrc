@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-loeschen-30.png</file>
+    <file>icons8-menue-30.png</file>
+  </qresource>
+</RCC>

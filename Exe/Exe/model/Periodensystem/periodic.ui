@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1271</width>
+    <height>889</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+background-color: #aadeff;
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>1150</width>
+      <height>430</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="ElementGridLayout1">
+     <property name="sizeConstraint">
+      <enum>QLayout::SetMinimumSize</enum>
+     </property>
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item row="4" column="18">
+      <widget class="ElementWidget" name="e54" native="true"/>
+     </item>
+     <item row="5" column="18">
+      <widget class="ElementWidget" name="e86" native="true"/>
+     </item>
+     <item row="1" column="1">
+      <widget class="ElementWidget" name="e4" native="true"/>
+     </item>
+     <item row="2" column="1">
+      <widget class="ElementWidget" name="e12" native="true"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="ElementWidget" name="e3" native="true"/>
+     </item>
+     <item row="2" column="0">
+      <widget class="ElementWidget" name="e11" native="true"/>
+     </item>
+     <item row="4" column="8">
+      <widget class="ElementWidget" name="e44" native="true"/>
+     </item>
+     <item row="4" column="5">
+      <widget class="ElementWidget" name="e41" native="true"/>
+     </item>
+     <item row="3" column="1">
+      <widget class="ElementWidget" name="e20" native="true"/>
+     </item>
+     <item row="5" column="5">
+      <widget class="ElementWidget" name="e73" native="true"/>
+     </item>
+     <item row="4" column="0">
+      <widget class="ElementWidget" name="e37" native="true"/>
+     </item>
+     <item row="5" column="7">
+      <widget class="ElementWidget" name="e75" native="true"/>
+     </item>
+     <item row="2" column="16">
+      <widget class="ElementWidget" name="e16" native="true"/>
+     </item>
+     <item row="5" column="6">
+      <widget class="ElementWidget" name="e74" native="true"/>
+     </item>
+     <item row="5" column="8">
+      <widget class="ElementWidget" name="e76" native="true"/>
+     </item>
+     <item row="4" column="1">
+      <widget class="ElementWidget" name="e38" native="true"/>
+     </item>
+     <item row="4" column="6">
+      <widget class="ElementWidget" name="e42" native="true"/>
+     </item>
+     <item row="3" column="14">
+      <widget class="ElementWidget" name="e32" native="true"/>
+     </item>
+     <item row="4" column="7">
+      <widget class="ElementWidget" name="e43" native="true"/>
+     </item>
+     <item row="4" column="9">
+      <widget class="ElementWidget" name="e45" native="true"/>
+     </item>
+     <item row="5" column="4">
+      <widget class="ElementWidget" name="e72" native="true"/>
+     </item>
+     <item row="6" column="15">
+      <widget class="ElementWidget" name="e115" native="true"/>
+     </item>
+     <item row="6" column="13">
+      <widget class="ElementWidget" name="e113" native="true"/>
+     </item>
+     <item row="4" column="15">
+      <widget class="ElementWidget" name="e51" native="true"/>
+     </item>
+     <item row="6" column="17">
+      <widget class="ElementWidget" name="e117" native="true"/>
+     </item>
+     <item row="3" column="9">
+      <widget class="ElementWidget" name="e27" native="true"/>
+     </item>
+     <item row="5" column="13">
+      <widget class="ElementWidget" name="e81" native="true"/>
+     </item>
+     <item row="5" column="9">
+      <widget class="ElementWidget" name="e77" native="true"/>
+     </item>
+     <item row="3" column="17">
+      <widget class="ElementWidget" name="e35" native="true"/>
+     </item>
+     <item row="4" column="2">
+      <widget class="ElementWidget" name="e39" native="true"/>
+     </item>
+     <item row="5" column="16">
+      <widget class="ElementWidget" name="e84" native="true"/>
+     </item>
+     <item row="6" column="16">
+      <widget class="ElementWidget" name="e116" native="true"/>
+     </item>
+     <item row="5" column="0">
+      <widget class="ElementWidget" name="e55" native="true"/>
+     </item>
+     <item row="3" column="13">
+      <widget class="ElementWidget" name="e31" native="true"/>
+     </item>
+     <item row="6" column="14">
+      <widget class="ElementWidget" name="e114" native="true"/>
+     </item>
+     <item row="5" column="14">
+      <widget class="ElementWidget" name="e82" native="true"/>
+     </item>
+     <item row="5" column="2">
+      <widget class="ElementWidget" name="e57" native="true"/>
+     </item>
+     <item row="3" column="4">
+      <widget class="ElementWidget" name="e22" native="true"/>
+     </item>
+     <item row="4" column="10">
+      <widget class="ElementWidget" name="e46" native="true"/>
+     </item>
+     <item row="3" column="15">
+      <widget class="ElementWidget" name="e33" native="true"/>
+     </item>
+     <item row="5" column="15">
+      <widget class="ElementWidget" name="e83" native="true"/>
+     </item>
+     <item row="4" column="16">
+      <widget class="ElementWidget" name="e52" native="true"/>
+     </item>
+     <item row="4" column="13">
+      <widget class="ElementWidget" name="e49" native="true"/>
+     </item>
+     <item row="5" column="1">
+      <widget class="ElementWidget" name="e56" native="true"/>
+     </item>
+     <item row="2" column="15">
+      <widget class="ElementWidget" name="e15" native="true"/>
+     </item>
+     <item row="6" column="0">
+      <widget class="ElementWidget" name="e87" native="true"/>
+     </item>
+     <item row="4" column="14">
+      <widget class="ElementWidget" name="e50" native="true"/>
+     </item>
+     <item row="5" column="10">
+      <widget class="ElementWidget" name="e78" native="true"/>
+     </item>
+     <item row="5" column="11">
+      <widget class="ElementWidget" name="e79" native="true"/>
+     </item>
+     <item row="3" column="12">
+      <widget class="ElementWidget" name="e30" native="true"/>
+     </item>
+     <item row="1" column="14">
+      <widget class="ElementWidget" name="e6" native="true"/>
+     </item>
+     <item row="3" column="8">
+      <widget class="ElementWidget" name="e26" native="true"/>
+     </item>
+     <item row="2" column="13">
+      <widget class="ElementWidget" name="e13" native="true"/>
+     </item>
+     <item row="4" column="11">
+      <widget class="ElementWidget" name="e47" native="true"/>
+     </item>
+     <item row="3" column="16">
+      <widget class="ElementWidget" name="e34" native="true"/>
+     </item>
+     <item row="1" column="13">
+      <widget class="ElementWidget" name="e5" native="true"/>
+     </item>
+     <item row="6" column="1">
+      <widget class="ElementWidget" name="e88" native="true"/>
+     </item>
+     <item row="2" column="14">
+      <widget class="ElementWidget" name="e14" native="true"/>
+     </item>
+     <item row="3" column="2">
+      <widget class="ElementWidget" name="e21" native="true"/>
+     </item>
+     <item row="3" column="0">
+      <widget class="ElementWidget" name="e19" native="true"/>
+     </item>
+     <item row="6" column="8">
+      <widget class="ElementWidget" name="e108" native="true"/>
+     </item>
+     <item row="3" column="7">
+      <widget class="ElementWidget" name="e25" native="true"/>
+     </item>
+     <item row="1" column="15">
+      <widget class="ElementWidget" name="e7" native="true"/>
+     </item>
+     <item row="6" column="7">
+      <widget class="ElementWidget" name="e107" native="true"/>
+     </item>
+     <item row="5" column="12">
+      <widget class="ElementWidget" name="e80" native="true"/>
+     </item>
+     <item row="6" column="10">
+      <widget class="ElementWidget" name="e110" native="true"/>
+     </item>
+     <item row="6" column="6">
+      <widget class="ElementWidget" name="e106" native="true"/>
+     </item>
+     <item row="1" column="16">
+      <widget class="ElementWidget" name="e8" native="true"/>
+     </item>
+     <item row="2" column="17">
+      <widget class="ElementWidget" name="e17" native="true"/>
+     </item>
+     <item row="1" column="17">
+      <widget class="ElementWidget" name="e9" native="true"/>
+     </item>
+     <item row="4" column="17">
+      <widget class="ElementWidget" name="e53" native="true"/>
+     </item>
+     <item row="6" column="11">
+      <widget class="ElementWidget" name="e111" native="true"/>
+     </item>
+     <item row="4" column="12">
+      <widget class="ElementWidget" name="e48" native="true"/>
+     </item>
+     <item row="0" column="0">
+      <widget class="ElementWidget" name="e1" native="true"/>
+     </item>
+     <item row="6" column="4">
+      <widget class="ElementWidget" name="e104" native="true"/>
+     </item>
+     <item row="3" column="11">
+      <widget class="ElementWidget" name="e29" native="true"/>
+     </item>
+     <item row="3" column="5">
+      <widget class="ElementWidget" name="e23" native="true"/>
+     </item>
+     <item row="0" column="18">
+      <widget class="ElementWidget" name="e2" native="true"/>
+     </item>
+     <item row="1" column="18">
+      <widget class="ElementWidget" name="e10" native="true"/>
+     </item>
+     <item row="6" column="9">
+      <widget class="ElementWidget" name="e109" native="true"/>
+     </item>
+     <item row="6" column="5">
+      <widget class="ElementWidget" name="e105" native="true"/>
+     </item>
+     <item row="6" column="2">
+      <widget class="ElementWidget" name="e89" native="true"/>
+     </item>
+     <item row="4" column="4">
+      <widget class="ElementWidget" name="e40" native="true"/>
+     </item>
+     <item row="6" column="12">
+      <widget class="ElementWidget" name="e112" native="true"/>
+     </item>
+     <item row="3" column="6">
+      <widget class="ElementWidget" name="e24" native="true"/>
+     </item>
+     <item row="3" column="10">
+      <widget class="ElementWidget" name="e28" native="true"/>
+     </item>
+     <item row="5" column="17">
+      <widget class="ElementWidget" name="e85" native="true"/>
+     </item>
+     <item row="2" column="18">
+      <widget class="ElementWidget" name="e18" native="true"/>
+     </item>
+     <item row="3" column="18">
+      <widget class="ElementWidget" name="e36" native="true"/>
+     </item>
+     <item row="6" column="18">
+      <widget class="ElementWidget" name="e118" native="true"/>
+     </item>
+     <item row="5" column="3">
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap>png/sieheUnten1.png</pixmap>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="3">
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap>png/sieheUnten2.png</pixmap>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>450</y>
+      <width>766</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="ElementGridLayout2">
+     <property name="sizeConstraint">
+      <enum>QLayout::SetMinimumSize</enum>
+     </property>
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item row="0" column="2">
+      <widget class="ElementWidget" name="e60" native="true"/>
+     </item>
+     <item row="0" column="4">
+      <widget class="ElementWidget" name="e62" native="true"/>
+     </item>
+     <item row="0" column="1">
+      <widget class="ElementWidget" name="e59" native="true"/>
+     </item>
+     <item row="0" column="5">
+      <widget class="ElementWidget" name="e63" native="true"/>
+     </item>
+     <item row="0" column="6">
+      <widget class="ElementWidget" name="e64" native="true"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="ElementWidget" name="e90" native="true"/>
+     </item>
+     <item row="0" column="3">
+      <widget class="ElementWidget" name="e61" native="true"/>
+     </item>
+     <item row="0" column="12">
+      <widget class="ElementWidget" name="e70" native="true"/>
+     </item>
+     <item row="1" column="3">
+      <widget class="ElementWidget" name="e93" native="true"/>
+     </item>
+     <item row="0" column="9">
+      <widget class="ElementWidget" name="e67" native="true"/>
+     </item>
+     <item row="0" column="10">
+      <widget class="ElementWidget" name="e68" native="true"/>
+     </item>
+     <item row="0" column="8">
+      <widget class="ElementWidget" name="e66" native="true"/>
+     </item>
+     <item row="1" column="1">
+      <widget class="ElementWidget" name="e91" native="true"/>
+     </item>
+     <item row="1" column="4">
+      <widget class="ElementWidget" name="e94" native="true"/>
+     </item>
+     <item row="1" column="5">
+      <widget class="ElementWidget" name="e95" native="true"/>
+     </item>
+     <item row="0" column="13">
+      <widget class="ElementWidget" name="e71" native="true"/>
+     </item>
+     <item row="1" column="2">
+      <widget class="ElementWidget" name="e92" native="true"/>
+     </item>
+     <item row="1" column="7">
+      <widget class="ElementWidget" name="e97" native="true"/>
+     </item>
+     <item row="1" column="8">
+      <widget class="ElementWidget" name="e98" native="true"/>
+     </item>
+     <item row="0" column="11">
+      <widget class="ElementWidget" name="e69" native="true"/>
+     </item>
+     <item row="0" column="7">
+      <widget class="ElementWidget" name="e65" native="true"/>
+     </item>
+     <item row="1" column="9">
+      <widget class="ElementWidget" name="e99" native="true"/>
+     </item>
+     <item row="1" column="6">
+      <widget class="ElementWidget" name="e96" native="true"/>
+     </item>
+     <item row="1" column="11">
+      <widget class="ElementWidget" name="e101" native="true"/>
+     </item>
+     <item row="1" column="13">
+      <widget class="ElementWidget" name="e103" native="true"/>
+     </item>
+     <item row="1" column="12">
+      <widget class="ElementWidget" name="e102" native="true"/>
+     </item>
+     <item row="1" column="10">
+      <widget class="ElementWidget" name="e100" native="true"/>
+     </item>
+     <item row="0" column="0">
+      <widget class="ElementWidget" name="e58" native="true"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="startButton">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>760</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{
+background-color: #b5deff;
+}</string>
+    </property>
+    <property name="text">
+     <string>Start</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="winStreak">
+    <property name="geometry">
+     <rect>
+      <x>1010</x>
+      <y>730</y>
+      <width>121</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLineEdit{
+background-color: #b5deff;
+}</string>
+    </property>
+    <property name="text">
+     <string>Siegessträhne</string>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="rightWrong">
+    <property name="geometry">
+     <rect>
+      <x>990</x>
+      <y>660</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLineEdit{
+background-color: #b5deff;
+}</string>
+    </property>
+    <property name="text">
+     <string>Richtig / Falsch</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="taskLineEdit">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>620</y>
+      <width>481</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLineEdit{
+background-color: #b5deff;
+}</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>710</y>
+      <width>361</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLineEdit{
+background-color: #b5deff;
+}</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="TimeLabel">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>710</y>
+      <width>111</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLabel{
+background-color: #b5deff;
+border-style:outset;
+border-width:1px;
+border-color:#ffffff;
+}</string>
+    </property>
+    <property name="text">
+     <string>00:00:00</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="winCounter">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>760</y>
+      <width>51</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QLineEdit{
+background-color: #b5deff;
+}</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+    <property name="placeholderText">
+     <string>0</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1271</width>
+     <height>37</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Minimum">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <widget class="QMenu" name="menu_Hilfe">
+    <property name="title">
+     <string>&amp;Hilfe</string>
+    </property>
+    <addaction name="actionWird_das_Programm"/>
+    <addaction name="action_ndere_deine_Windows_Skalierung_auf_100_150_oder_200"/>
+    <addaction name="actionSystem_Einstellungen_Bildschirm"/>
+   </widget>
+   <widget class="QMenu" name="menu_Wie_wird_gespielt">
+    <property name="title">
+     <string>&amp;Was muss ich tun?</string>
+    </property>
+    <addaction name="actionDurch_dr_cken_der_Starttaste_werden_zuf_llige_Elemente_ausgeblendet"/>
+    <addaction name="actionDurch_einen_Klick_in_das_Eingabefeld_kann_mit_der_Tastatur_der_Name_des_Elements_eingegeben_werden"/>
+    <addaction name="actionNach_bet_tigen_der_Entertaste_wird_angezeigt_ob_die_Eingabe_richtig_oder_falsch_war"/>
+    <addaction name="actionViel_Erfolg"/>
+   </widget>
+   <addaction name="menu_Hilfe"/>
+   <addaction name="menu_Wie_wird_gespielt"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionWird_das_Programm">
+   <property name="text">
+    <string>Wird das Programm nicht Richitg angezeigt?</string>
+   </property>
+  </action>
+  <action name="action_ndere_deine_Windows_Skalierung_auf_100_150_oder_200">
+   <property name="text">
+    <string>Ändere deine Windows-Skalierung auf: 100%, 150% oder 200%</string>
+   </property>
+  </action>
+  <action name="actionSystem_Einstellungen_Bildschirm">
+   <property name="text">
+    <string>System-&gt;Einstellungen-&gt;Bildschirm-&gt;Skalierung und Anordnung</string>
+   </property>
+  </action>
+  <action name="actionDurch_dr_cken_der_Starttaste_werden_zuf_llige_Elemente_ausgeblendet">
+   <property name="text">
+    <string>Durch drücken der Starttaste werden zufällige Elemente ausgeblendet.</string>
+   </property>
+  </action>
+  <action name="actionDurch_einen_Klick_in_das_Eingabefeld_kann_mit_der_Tastatur_der_Name_des_Elements_eingegeben_werden">
+   <property name="text">
+    <string>Durch einen Klick in das Eingabefeld kann mit der Tastatur der Name des Elements eingegeben werden.</string>
+   </property>
+  </action>
+  <action name="actionNach_bet_tigen_der_Entertaste_wird_angezeigt_ob_die_Eingabe_richtig_oder_falsch_war">
+   <property name="text">
+    <string>Nach betätigen der Entertaste wird angezeigt ob die Eingabe richtig oder falsch war.</string>
+   </property>
+  </action>
+  <action name="actionViel_Erfolg">
+   <property name="text">
+    <string>Viel Erfolg!</string>
+   </property>
+  </action>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>ElementWidget</class>
+   <extends>QWidget</extends>
+   <header>model/Periodensystem/customElementWidget</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+ <slots>
+  <slot>my_button_clicked()</slot>
+ </slots>
+</ui>
